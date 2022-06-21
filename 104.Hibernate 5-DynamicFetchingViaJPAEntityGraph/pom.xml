@@ -23,7 +23,7 @@
       <!-- MySQL connector dependency -->
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>
-      <version>8.0.13</version>
+      <version>8.0.28</version>
     </dependency>
 
     <!-- Hibernate 5.2.11 Final dependency -->
